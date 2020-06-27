@@ -23,6 +23,7 @@ target=5时,循环结束前left=mid+1=4;循环结束后left人等与4,正确。
 #include <stack>
 #include <vector>
 #include <queue>
+#include <unordered_map>
 
 using namespace std;
 
