@@ -27,6 +27,7 @@
 #include <vector>
 #include <algorithm>
 
+
 using namespace std;
 
 void nextPermutation(vector<int>& nums) {
